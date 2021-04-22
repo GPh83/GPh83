@@ -1,4 +1,4 @@
-Bienvenue,
+**Bienvenue,**
 
 Philippe, développeur depuis 30 ans, polyvalent qui fait aussi de la gestion de projet, de l'électronique et de l'administration de parc.
 
@@ -11,6 +11,7 @@ Comme peut le laisser supposer la photo de profil, ancien Alpiniste passionné d
 
 Ma contribution à l'Open Source est le dépôt resticterm qui se veut une interface console pour l'outil de sauvegarde restic.(https://restic.net/)
 
+![Glacier](/1500x500.jpg)
 
 <!---
 GPh83/GPh83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
